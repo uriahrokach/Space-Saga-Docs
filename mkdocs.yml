@@ -14,6 +14,7 @@ theme:
     text: IBM Plex Sans Hebrew
   features:
     - navigation.tabs
+    - navigation.footer
 
 markdown_extensions:
   - tables
