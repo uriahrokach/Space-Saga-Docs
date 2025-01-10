@@ -7,9 +7,18 @@ theme:
   favicon: assets/logo.png
   language: he
   palette: 
-    scheme: slate
-    primary: custom
-    accent: blue
+    - scheme: slate
+      primary: hf
+      accent: blue
+      toggle: 
+        icon: material/navigation
+        name: Human Fleet
+    - scheme: slate
+      primary: tpf
+      accent: red
+      toggle: 
+        icon: simple/eagle
+        name: Terras Patriotic Front
   font:
     text: IBM Plex Sans Hebrew
   features:
