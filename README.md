@@ -8,6 +8,10 @@ You can access the documentation [here](uriahrokach.github.io/space-saga-docs).
 This documentation is using the [material plugin for mkdocs](https://squidfunk.github.io/mkdocs-material/)
 In order to generate beautiful documentation, with some extra custom `HTML` and `CSS`. 
 
+### Prerequisites
+
+* docker
+
 ### Setting up a dev environment
 
 Clone the repository:
