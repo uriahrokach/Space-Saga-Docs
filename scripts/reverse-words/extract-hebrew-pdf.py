@@ -11,9 +11,6 @@ def generate_text_from_pdf(pdf_path: str):
         text = page.get_text()
         yield text
 
-def extract_images_from_pdf():
-    
-
 @click.command(help="Extracts hebrew txt from pdf file")
 @click.option("-o", "--output", default=None, help="The name of the output file. Defaults to stdout")
 @click.argument("file_path")
