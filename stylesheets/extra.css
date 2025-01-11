@@ -1,0 +1,11 @@
+[data-md-color-primary="hf"] {
+    --md-primary-fg-color:        #023e8a;
+    --md-primary-fg-color--light: #0077b6;
+    --md-primary-fg-color--dark:  #0077b6;
+}
+
+[data-md-color-primary="tpf"] {
+    --md-primary-fg-color:        #540f22;
+    --md-primary-fg-color--light: #7f1734;
+    --md-primary-fg-color--dark:  #290711;
+}
